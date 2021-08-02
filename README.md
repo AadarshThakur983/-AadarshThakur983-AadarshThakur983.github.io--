@@ -1,1 +1,8 @@
-# -AadarshThakur983-AadarshThakur983.github.io--
+
+
+# Module-2 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE]()
+
